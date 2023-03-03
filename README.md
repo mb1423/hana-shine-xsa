@@ -30,6 +30,7 @@ For detailed description on each release follow the below links
 For any question/clarification or report an issue in SHINE please [create issue](https://github.com/sap/hana-shine-xsa/issues/new/).
 ## /* test */
 ## Dies ist ein Test
+## Dies ist ein zweiter Test
 ## License
 Copyright (c) 2017-2020 SAP SE or an SAP affiliate company. All rights reserved.
 This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
